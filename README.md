@@ -1,0 +1,2 @@
+# manpageHunter
+Hunting man page
